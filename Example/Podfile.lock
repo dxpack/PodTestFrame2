@@ -1,0 +1,14 @@
+PODS:
+  - PodTestFrame2 (0.1.0)
+
+DEPENDENCIES:
+  - PodTestFrame2 (from `../`)
+
+EXTERNAL SOURCES:
+  PodTestFrame2:
+    :path: ../
+
+SPEC CHECKSUMS:
+  PodTestFrame2: 4e38d934f66440abcaf9c6bed6b699c8779a0203
+
+COCOAPODS: 0.39.0
